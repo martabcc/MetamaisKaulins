@@ -9,3 +9,15 @@ Prasības:
 5. Ja punkti ir vairāk nekā 22, tad esi spēli zaudējis.
 6. Parāda rezultātus.
 7. Dota iespēja sākt spēli no jauna.
+
+Struktūrskice:
+Sākums
+Punkti = 0
+Met kauliņu
+Pieskaita punktus
+Vai punkti = 30?
+Jā -> Uzvara
+Vai punkti > 30?
+Jā -> Zaudējums
+Nē -> turpina spēli
+Beigas / restartēt
