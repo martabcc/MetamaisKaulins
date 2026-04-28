@@ -1,2 +1,11 @@
 Apraksts - Spēle “22” ir datorspēle, kurā spēlētājs met metamo kauliņu. 
 Katru reizi kad uzmet, tad tu dabū punktus no 1-6. Mērķis ir pirmajam sasniegt summu 22. Ja ir vairāk par 22, spēlētājs zaud.
+
+Prasības: 
+1. Spēle sākas no 0 punktiem.
+2. Spēlētājs met kauliņu (dabū rezultātu no 1-6).
+3. Spelētāju punktu summa tiek saiskaitīta.
+4. Ja punkti ir vienādi ar 22, tad esi spēli uzvarējis.
+5. Ja punkti ir vairāk nekā 22, tad esi spēli zaudējis.
+6. Parāda rezultātus.
+7. Dota iespēja sākt spēli no jauna.
